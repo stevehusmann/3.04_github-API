@@ -1,0 +1,21 @@
+.container-fluid {
+  margin-top: 30px;
+}
+
+.face {
+  padding: 20px;
+  border: solid 1px #292b2c;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  margin: 5px;
+  max-width: 30%;
+  word-wrap: break-word;
+
+}
+
+img {
+  margin-top:20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
